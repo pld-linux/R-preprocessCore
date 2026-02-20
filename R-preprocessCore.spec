@@ -3,7 +3,7 @@
 Summary:	A collection of pre-processing functions
 Name:		R-%{packname}
 Version:	1.24.0
-Release:	3
+Release:	4
 License:	LGPL v2+
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
