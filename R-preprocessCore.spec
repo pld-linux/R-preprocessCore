@@ -2,13 +2,13 @@
 
 Summary:	A collection of pre-processing functions
 Name:		R-%{packname}
-Version:	1.24.0
-Release:	4
+Version:	1.72.0
+Release:	1
 License:	LGPL v2+
 Group:		Applications/Engineering
-Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	24f786a32f51874968b0812f83f8854d
-URL:		http://bioconductor.org/packages/release/bioc/html/preprocessCore.html
+Source0:	https://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
+# Source0-md5:	c288c12d10a9a8b02904140e08aa97bd
+URL:		https://bioconductor.org/packages/release/bioc/html/preprocessCore.html
 BuildRequires:	R
 BuildRequires:	texlive-latex
 Requires:	R
